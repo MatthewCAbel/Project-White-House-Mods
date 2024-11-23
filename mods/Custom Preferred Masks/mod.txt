@@ -1,0 +1,13 @@
+{
+	"name" : "Custom Preferred Mask",
+	"description" : "Customize each characters' preferred masks.",
+	"author" : "easternunit100",
+	"blt_version" : 2,
+	"version" : "1.1",
+	"hooks" : [
+		{ 	
+			"hook_id" : "lib/managers/blackmarketmanager",
+			"script_path" : "lua/blackmarketmanager.lua"
+		}
+	]
+}

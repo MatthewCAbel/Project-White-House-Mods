@@ -1,0 +1,19 @@
+{
+	"IndividualMasks_title" : "Custom preferred character masks",
+	"IndividualMasks_desc" : "Set each character's preferred mask with ones in your inventory.",
+	"id_IndividualMasks_open_menu_title" : "Set characters preferred masks.",
+	"id_IndividualMasks_open_menu_desc" : "Opens up a menu of lists of characters to override their default masks.",
+	"IndividualMasks_menu_cannot_display" : "Cannot override default masks this time.",
+	"IndividualMasks_menu_cannot_display_desc" : "You can only override default masks at the main menu",
+	"id_IndividualMasks_set_all_default_title" : "Revert all to default",
+	"id_IndividualMasks_set_all_default_desc" : "Set all character's preferred masks back to default",
+	"IndividualMasks_quit_prompt" : "[Cancel]",
+	"IndividualMasks_ok_prompt" : "[OK]",
+	"IndividualMasks_menu_name" : "Choose a character",
+	"IndividualMasks_menu_desc" : "Choose one of the following characters to override their preferred mask.",
+	"IndividualMasks_prompt_default_title" : "Revert all to default masks?",
+	"IndividualMasks_prompt_default_desc" : "Are you sure you want to revert all characters' preferred masks back to default?",
+	"IndividualMasks_default_select_yes" : "Yes",
+	"IndividualMasks_default_select_no" : "No",
+	"IndividualMasks_choose_new_default_mask" : "Choose a preferred mask for $CHARACTER"
+}

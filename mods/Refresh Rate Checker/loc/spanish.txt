@@ -1,0 +1,4 @@
+{
+	"rrc_notif_title" : "Frecuencia de actualización del monitor",
+	"rrc_notif_msg" : "Hay una mejor tasa de refresco disponible: $rate1 Hz en lugar de la actual $rate2 Hz.\nEstablézcala en Opciones > Video > Resolución."
+}

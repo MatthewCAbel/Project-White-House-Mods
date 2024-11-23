@@ -1,0 +1,14 @@
+{
+"name" : "Buzzsaw 42 Belt Fix",
+"description" : "It's a nice feature that the lower receiver part is also the magazine part of this gun.",
+"author" : "Hinaomi",
+"contact" : "https://steamcommunity.com/id/hinaomi/",
+"version" : "1.0",
+"color" : "255 0 255",
+"blt_version" : "2",
+"disable_safe_mode" : false,
+"hooks":[
+	{ "hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+	"script_path" : "Hooks/WeaponFactoryMods.lua" }
+    	]
+}

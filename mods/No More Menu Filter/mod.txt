@@ -1,0 +1,17 @@
+{
+	"name" : "No More Menu Filter",
+	"description" : "Get's rid of that god awful blue filter in the menu without affecting other filters in the game.",
+	"author" : "Cpone",
+	"contact" : "",
+	"version" : "1",
+	"blt_version" : 2,
+	"color" : "153 230 26",
+	"undisablable" : true,
+
+	"hooks": [
+        {
+            "hook_id": "lib/managers/menu/menuscenemanager",
+            "script_path": "menuscenemanager.lua"
+        }
+    ]
+}

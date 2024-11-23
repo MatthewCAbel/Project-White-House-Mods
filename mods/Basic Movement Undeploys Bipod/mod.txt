@@ -1,0 +1,19 @@
+{
+	"name" : "Basic Movement Undeploys Bipod",
+	"description" : "Permits for a much faster way of undeploying your bipod",
+	"author" : "Kolkpen",
+	"contact" : "steamid/qt3_14",
+	"version" : "1.00",
+	"priority" : 70,
+	"updates" : [
+		{
+			"revision" : 1.00,
+			"identifier" : "beeped",
+			"install_dir" : "."
+		}
+	]
+	"hooks" : [		
+		{ "hook_id" : "lib/units/beings/player/states/playerbipod", "script_path" : "beeped.lua" }
+	]
+	
+}

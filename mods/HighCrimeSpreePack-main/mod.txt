@@ -1,0 +1,16 @@
+{
+	"name" : "High Crime Spree Pack",
+	"description" : "Fixes load times for crime spree but also makes your spree only scale once every 100k",
+	"author" : "sunny_bunny",
+	"contact" : "",
+	"blt_version" : 2,
+	"version": "1.2",
+
+	"hooks" : [
+	{ 	
+		"hook_id" : "lib/tweak_data/crimespreetweakdata",
+		"script_path" : "crimespreetweakdata.lua"
+	}
+	]
+	
+}

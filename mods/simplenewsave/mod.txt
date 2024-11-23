@@ -1,0 +1,1 @@
+{"name":"Simple Separate Save","description":"Changes your Save File without you needing to Reset Progess","author":"naii","color":"0 1 1","version":"1","blt_version":2,"hooks":[{"hook_id":"lib/managers/savefilemanager","script_path":"savefilemanager.lua"}]}

@@ -1,0 +1,14 @@
+<mod name="Original Bipods" color="Color(0.01,0.62,0.98)">
+	<AssetUpdates id="28543" version="1.01" provider="modworkshop"/>
+	<AddFiles>
+		<auto_generate="true">
+			<ignore>
+				<xml/>
+				<lua/>
+			</ignore>
+		</auto_generate>
+	</AddFiles>
+	<Hooks directory="hooks">
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>
+	</Hooks>
+</mod>

@@ -1,0 +1,22 @@
+{
+	"blt_version" : 2,
+	"name" : "Vanilla More Heist Crime Spree Extended",
+	"description" : "Adds a whole lot of heists into Crime Spree",
+	"author" : "Ludor Experiens Extended by SenpaiKillerFire",
+	"contact" : "https://steamcommunity.com/id/SenpaiKillerFire",
+	"version" : "1.5.9",
+	"priority" : 0,
+	"image" : "more.png",
+	"color" : "0.129 0.133 0.141",
+	"hooks" : [
+		{ "hook_id" : "lib/managers/crimenetmanager", "script_path" : "lua/crimenetmanager.lua"},
+		{ "hook_id" : "lib/managers/crimespreemanager", "script_path" : "lua/crimespreemanager.lua"},
+		{ "hook_id" : "lib/managers/menumanager", "script_path" : "lua/menumanager.lua"},
+		{ "hook_id" : "lib/managers/menu/crimespreemissionsmenucomponent", "script_path" : "lua/crimespreemissionsmenucomponent.lua"},
+		{ "hook_id" : "lib/network/matchmaking/networkmatchmakingsteam", "script_path" : "lua/networkmatchmakingsteam.lua"},
+		{ "hook_id" : "lib/states/ingamewaitingforplayers", "script_path" : "lua/ingamewaitingforplayers.lua"},
+		{ "hook_id" : "lib/tweak_data/crimespreetweakdata", "script_path" : "lua/crimespreetweakdata.lua"},
+		{ "hook_id" : "lib/tweak_data/hudiconstweakdata", "script_path" : "lua/hudiconstweakdata.lua"}
+	],
+	"updates" : [ {"identifier" : "MHiCS", "host": { "meta": "https://www.dropbox.com/s/p098x8ffo8lg6cq/meta?raw=1"}}]
+}

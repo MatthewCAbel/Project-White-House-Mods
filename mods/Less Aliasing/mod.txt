@@ -1,0 +1,12 @@
+{
+	"name" : "Less Aliasing",
+	"description" : "Reduces Aliasing by changing a small variable in CoreEnvironmentControllerManager.",
+	"author" : "fugsystem",
+	"blt_version" : 2,
+    "hooks": [
+		{
+			"hook_id": "core/lib/managers/coreenvironmentcontrollermanager",
+			"script_path": "coreenvironmentcontrollermanager.lua"
+		}
+	]
+}

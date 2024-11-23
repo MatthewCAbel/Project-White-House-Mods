@@ -1,0 +1,1 @@
+{"crit":"fe00fe","kill_texture":"TdlQ.texture","initial_hit_size_ratio":1,"blend_mode":2,"hcrit":"0057fe","hit_texture":"classic hit v2.texture","initial_kill_size_ratio":1,"head":"fe0000","body":"00fe00","grow_ratio":0,"shake":false}

@@ -1,0 +1,7 @@
+<materials version="3" group="wpn_npc_mp5_tactical">
+    <material name="mtr_mp5" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <bump_normal_texture file="units/payday2/weapons/wpn_npc_mp5/mp5_nm"/>
+        <diffuse_texture file="units/payday2/weapons/wpn_npc_mp5/mp5_df"/>
+    </material>	
+    <material name="shadow_caster" render_template="generic" version="2"/>
+</materials>

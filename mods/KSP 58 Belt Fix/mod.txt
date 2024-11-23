@@ -1,0 +1,14 @@
+{
+"name" : "KSP 58 Belt Fix",
+"description" : "Isn't it funny that your ammo never run out virsually?",
+"author" : "Hinaomi",
+"contact" : "https://steamcommunity.com/id/hinaomi/",
+"version" : "1.0.1",
+"color" : "0 255 255",
+"blt_version" : "2",
+"disable_safe_mode" : false,
+"hooks":[
+	{ "hook_id" : "lib/tweak_data/weaponfactorytweakdata",
+	"script_path" : "Hooks/WeaponFactoryMods.lua" }
+    	]
+}

@@ -1,0 +1,27 @@
+<table>
+	<cooked_physics path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod"/>
+	<cooked_physics path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod"/>
+	<cooked_physics path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod"/>
+	<model path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod"/>
+	<model path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod"/>
+	<model path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod"/>
+	<object path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod"/>
+	<object path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod"/>
+	<object path="units/pd2_crimefest_2015/update_5/weapons/wpn_fps_upg_bp_lmg_lionbipod/wpn_fps_upg_bp_lmg_lionbipod"/>
+	<object path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod_cc_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod_cc_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod_cc_thq"/>
+	<unit path="units/mods/weapons/wpn_fps_lmg_m249_pts/wpn_fps_lmg_m249_bipod"/>
+	<unit path="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod"/>
+	<unit path="units/mods/weapons/wpn_fps_lmg_mg42_pts/wpn_fps_lmg_mg42_bipod"/>
+</table>

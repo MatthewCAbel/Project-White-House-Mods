@@ -1,0 +1,21 @@
+{
+    "name" : "Heist Specific Music in Crime Spree",
+    "description" : "Instead of random music the heist specific music will be selected",
+    "author" : "LudorExperiens",
+    "contact" : "http://steamcommunity.com/id/ludorexperiens",
+    "version" : "1.1",
+	"blt_version" : 2.0,
+	"image"	: "music.png",
+    "hooks":[  
+		 {"hook_id" : "lib/managers/musicmanager", "script_path" : "musicmanager.lua"},
+		 {"hook_id" : "lib/managers/crimespreemanager", "script_path" : "crimespreemanager.lua"}
+    ],
+	"updates" : [
+		{
+			"identifier" : "CSSpecificMusic",
+			"host": {
+				"meta": "https://www.dropbox.com/s/7oyimqk01n6oi18/meta?raw=1"
+			}
+		}
+	]
+}

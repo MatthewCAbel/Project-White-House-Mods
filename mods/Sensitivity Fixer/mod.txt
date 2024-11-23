@@ -1,0 +1,13 @@
+{
+	"name" : "Sensitivity fixer",
+	"description" : ".",
+	"author" : "",
+	"contact" : "",
+	"version" : "",
+	"hooks" : [
+   {   
+        "hook_id" : "lib/managers/localizationmanager",
+        "script_path" : "sensitivity.lua"
+    }
+]
+}

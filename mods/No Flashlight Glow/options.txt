@@ -1,0 +1,34 @@
+{
+	"menu_id" : "nfg_options",
+	"parent_menu_id" : "blt_options",
+	"title" : "nfg_title",
+	"back_callback" : "callback_nfg_close",
+	"items" : [
+		{
+			"type" : "toggle",
+			"id" : "id_nfg_toggle_glow",
+			"title" : "nfg_toggle_glow_title",
+			"description" : "nfg_toggle_glow_desc",
+			"callback" : "callback_nfg_toggle_glow",
+			"value" : "disable_glow"
+		},
+		{
+			"type" : "divider",
+			"size" : 24
+		},		
+		{
+			"type" : "slider",
+			"id" : "id_nfg_alpha_slider",
+			"title" : "nfg_alpha_slider_title",
+			"description" : "nfg_alpha_slider_desc",
+			"callback" : "callback_nfg_alpha_slider",
+			"value" : "glow_alpha",
+			"default_value" : 16,
+			"min" : 0,
+			"max" : 256,
+			"step" : 1
+		}
+		
+		
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "name" : "No ADS Recoil Animations",
+    "description" : "Disables recoil animations on most weapons when aiming down sights.",
+    "author" : "Zdann",
+	"contact" : "http://steamcommunity.com/profiles/76561198001478193/",
+    "version" : "1.71",
+	"blt_version" : 2,
+	"priority" : 0,
+	"hooks" : [
+    {
+        "hook_id" : "lib/units/beings/player/states/playerstandard",
+        "script_path" : "playerstandard.lua"
+    }
+    ]
+}

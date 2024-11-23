@@ -1,0 +1,4 @@
+{	"ApplyOnAll":false,	"Saved":{
+	"_meta":"default_value",
+	"coal":{}
+},	"ToggleKey":"f7",	"RefreshKey":"f5"}

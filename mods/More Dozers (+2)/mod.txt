@@ -1,0 +1,17 @@
+{
+	"name": "More Dozers (+2)",
+	"description": "Two more dozers allowed into the level.",
+	"author": "\n andole",
+	"version": "1",
+	"blt_version" : 2.0,
+	"priority" : 100,
+	"color" : "0 0.8 0.206",
+	"contact": "\n http://steamcommunity.com/id/andole/",
+
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/groupaitweakdata",
+			"script_path": "groupaitweakdata.lua"
+		}
+	]
+}

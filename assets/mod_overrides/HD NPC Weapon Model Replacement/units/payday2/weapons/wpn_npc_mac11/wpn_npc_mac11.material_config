@@ -1,0 +1,10 @@
+<materials version="3" group="wpn_npc_mac11">
+    <material name="mtr_mac11" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_3RD_WEAPONS">
+        <bump_normal_texture file="units/payday2/weapons/wpn_npc_mac11/mac11_nm"/>
+        <diffuse_texture file="units/payday2/weapons/wpn_npc_mac11/mac11_df"/>
+    </material>
+    <material name="weapon_lod1" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_3RD_WEAPONS">
+        <diffuse_texture file="units/payday2/weapons/wpn_npc_mac11/mac11_df"/>
+        <bump_normal_texture file="units/payday2/weapons/wpn_npc_mac11/mac11_nm"/>		
+    </material>
+</materials>

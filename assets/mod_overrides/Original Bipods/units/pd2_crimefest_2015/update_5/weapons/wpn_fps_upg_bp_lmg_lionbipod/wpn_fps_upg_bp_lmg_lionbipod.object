@@ -1,0 +1,21 @@
+<dynamic_object>
+	<diesel materials="units/pd2_crimefest_2015/update_5/weapons/wpn_fps_upg_bp_lmg_lionbipod/wpn_fps_upg_bp_lmg_lionbipod" orientation_object="rp_wpn_fps_upg_bp_lmg_lionbipod" />
+	<animations>
+		<animation_group name="deploy">
+			<object name="anim_bipod_base_deploy" enabled="true" />
+			<object name="anim_bipod_left_deploy" enabled="true" />
+			<object name="anim_bipod_right_deploy" enabled="true" />
+		</animation_group>
+		<animation_group name="undeploy">
+			<object name="anim_bipod_base_undeploy" enabled="true" />
+			<object name="anim_bipod_left_undeploy" enabled="true" />
+			<object name="anim_bipod_right_undeploy" enabled="true" />
+		</animation_group>
+	</animations>
+	<graphics>
+		<object name="g_base" enabled="true" />
+		<object name="g_leg_left" enabled="true" />
+		<object name="g_leg_right" enabled="true" />
+		<object name="g_mount" enabled="true" />
+	</graphics>
+</dynamic_object>

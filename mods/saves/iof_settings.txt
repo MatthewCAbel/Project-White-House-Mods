@@ -1,0 +1,1 @@
+{"iof_community":true,"iof_chat":true,"iof_inventory":true,"iof_filters":true,"iof_freeze_achi":false,"iof_winters":false,"iof_armor":false,"iof_no_interrupt":true}

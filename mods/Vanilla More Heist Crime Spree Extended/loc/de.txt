@@ -1,0 +1,17 @@
+{
+	"MHiCS_menu_title" : "More Heists in Crime Spree",
+	"MHiCS_menu_desc" : "Optionen für 'More Heists in Crime Spree'",
+	"MHiCS_deactivate_button_title" : "Mod deaktivieren",
+	"MHiCS_deactivate_button_desc" : "Klicke diesen Knopf nur, wenn du den Mod entfernen möchtest",
+	"MHiCS_reactivate_button_title" : "Mod reaktivieren",
+	"MHiCS_reactivate_button_desc" : "Klicke diesen Knopf, wenn du nicht länger den Mod entfernen möchtest",
+	"MHiCS_toggle_only_title" : "Nur 'More Heists In Crime Spree' Spiele",
+	"MHiCS_toggle_only_desc" : "Zeige nur 'More Heists In Crime Spree' Spiele an",
+	"MHiCS_toggle_lobby_title" : "'More Heists In Crime Spree' Spiel",
+	"MHiCS_toggle_lobby_desc" : "Spiele eine Verbrechenswelle mit mehr Missionen",
+	"MHiCS_about_to_imposs_desc" : "Dies kann nicht während einer Verbrechenswelle ausgewählt werden",
+	"MHiCS_about_to_deact_desc" : "Sobald der Mod deaktiviert ist, kann er entfernt werden, ohne das Risiko, die derzeitige Verbrechenswelle zu verlieren. Allerdings können Spiele, die 'More Heists in Crime Spree' verwenden, nicht länger gestartet oder diesen beigetreten werden.\n\nMit Deaktivierung fortfahren?",
+	"MHiCS_about_to_react_desc" : "Die Reaktivierung des Mods erlaubt das Starten und Beitreten von 'More Heists in Crime Spree' Spielen. Allerdings muss der Mod wieder deaktiviert werden, bevor er sicher entfernt werden kann.\n\nMit Reaktivierung fortfahren?",
+	"MHiCS_mod_not_enabled_title" : "'More Heists In Crime Spree' inaktiv",
+	"MHiCS_mod_not_enabled_desc" : "Du kannst derzeit 'More Heists in Crime Spree' Spiele weder starten noch diesen beitreten. Um diese Warnung nicht mehr anzuzeigen entweder den Mod reaktivieren oder ihn komplett entfernen.\n\nMod reaktivieren?"
+}

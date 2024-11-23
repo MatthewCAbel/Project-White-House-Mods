@@ -1,0 +1,18 @@
+<mod name="PerfectViewModel" global_key="PVM" core_class="PVM.lua" min_lib_ver="3.0">
+   <AssetUpdates id="17618" version="1.4.3" provider="modworkshop" use_local_dir="true" use_local_path="true"/>
+	<Hooks directory="Hooks">
+		<hook source_file="lib/tweak_data/tweakdata" file="TweakData.lua"/>
+		<hook source_file="lib/managers/weaponfactorymanager" file="WeaponFactoryManager.lua"/>
+		<hook source_file="lib/units/weapons/newraycastweaponbase" file="NewRaycastWeaponBase.lua"/>
+	</Hooks>
+	<Options build_menu="false" auto_load="true">
+		<options>
+         <option type="string" default_value="f7" name="ToggleKey"/>
+         <option type="string" default_value="f5" name="RefreshKey"/>
+         <option type="boolean" default_value="false" name="ApplyOnAll"/>
+			<option name="Saved" type="table">
+				<default_value/>
+			</option>
+		</options>
+	</Options>
+</mod>

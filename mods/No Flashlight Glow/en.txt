@@ -1,0 +1,7 @@
+{
+	"nfg_title" : "No Flashlight Glow Settings",
+	"nfg_alpha_slider_title" : "Flashlight Glow Opacity",
+	"nfg_alpha_slider_desc" : "A higher opacity number is more visible.",
+	"nfg_toggle_glow_title" : "Disable Flashlight Glow",
+	"nfg_toggle_glow_desc" : "Overrides ''Flashlight Glow Opacity'' setting."
+}

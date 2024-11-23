@@ -1,0 +1,18 @@
+<dynamic_object>
+	<diesel materials="units/mods/weapons/wpn_fps_lmg_rpk_pts/wpn_fps_lmg_rpk_bipod" orientation_object="rp_wpn_fps_lmg_rpk_bipod" />
+	<animations>
+		<animation_group name="deploy">
+			<object name="anim_bipod_left_deploy" enabled="true" />
+			<object name="anim_bipod_right_deploy" enabled="true" />
+		</animation_group>
+		<animation_group name="undeploy">
+			<object name="anim_bipod_left_undeploy" enabled="true" />
+			<object name="anim_bipod_right_undeploy" enabled="true" />
+		</animation_group>
+	</animations>
+	<graphics>
+		<object name="g_cleaning_rod_hook" enabled="true" />
+		<object name="g_bipod_left" enabled="true" />
+		<object name="g_bipod_right" enabled="true" />
+	</graphics>
+</dynamic_object>

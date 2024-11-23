@@ -1,0 +1,4 @@
+{
+	"rrc_notif_title" : "Monitor refresh rate",
+	"rrc_notif_msg" : "A better rate is available: $rate1 Hz instead of current $rate2 Hz.\nSet it in Options > Video > Resolution."
+}

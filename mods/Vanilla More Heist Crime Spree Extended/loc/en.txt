@@ -1,0 +1,17 @@
+{
+	"MHiCS_menu_title" : "More Heists in Crime Spree",
+	"MHiCS_menu_desc" : "Options for 'More Heists in Crime Spree'",
+	"MHiCS_deactivate_button_title" : "Deactivate mod",
+	"MHiCS_deactivate_button_desc" : "Only click this button if you intend to remove this mod",
+	"MHiCS_reactivate_button_title" : "Reactivate mod",
+	"MHiCS_reactivate_button_desc" : "Click this if you changed your mind about removing the mod",
+	"MHiCS_toggle_only_title" : "'More Heists In Crime Spree' lobbies only",
+	"MHiCS_toggle_only_desc" : "Only display 'More Heists In Crime Spree' lobbies",
+	"MHiCS_toggle_lobby_title" : "'More Heists In Crime Spree' lobby",
+	"MHiCS_toggle_lobby_desc" : "Create lobby with more heists",
+	"MHiCS_about_to_imposs_desc" : "This option cannot be selected while playing Crime Spree",
+	"MHiCS_about_to_deact_desc" : "Deactivating this mod will allow you to safely remove it without the risk of losing your Crime Spree. However you will no longer be able to join or host 'More Heists in Crime Spree' lobbies.\n\nDo you wish to continue?",
+	"MHiCS_about_to_react_desc" : "Reactivating this mod will allow you to join or host 'More Heists in Crime Spree' lobbies. However you will need to deactivate the mod again in order to safely remove it.\n\nDo you wish to continue?",
+	"MHiCS_mod_not_enabled_title" : "'More Heists In Crime Spree' inactive",
+	"MHiCS_mod_not_enabled_desc" : "You are currently unable to join or host 'More Heists in Crime Spree' lobbies. To never show this warning again, either reactivate the mod or remove it completely.\n\nDo you want to reactivate the mod?"
+}

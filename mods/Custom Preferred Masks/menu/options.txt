@@ -1,0 +1,23 @@
+{
+	"menu_id" : "IndividualMasks_menu_id",
+	"parent_menu_id" : "blt_options",
+	"title" : "IndividualMasks_title",
+	"description" : "IndividualMasks_desc",
+	"back_callback" : "callback_IndividualMasks_close",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "id_IndividualMasks_open_menu",
+			"title" : "id_IndividualMasks_open_menu_title",
+			"description" : "id_IndividualMasks_open_menu_desc",
+			"callback" : "clbk_IndividualMasks_open_open_mask_category_menu_custom"
+		},
+		{
+			"type" : "button",
+			"id" : "id_IndividualMasks_set_all_default",
+			"title" : "id_IndividualMasks_set_all_default_title",
+			"description" : "id_IndividualMasks_set_all_default_desc",
+			"callback" : "clbk_IndividualMasks_set_all_to_default"
+		}
+	]
+}

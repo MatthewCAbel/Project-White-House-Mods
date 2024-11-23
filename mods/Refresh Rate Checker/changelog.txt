@@ -1,0 +1,11 @@
+Revision 4:
+- fixed frequencies listed out of order
+
+Revision 3:
+- added spanish translation by Kilowide
+
+Revision 2:
+- fixed initial check for players not having set -skip_intro in Steam options
+
+Revision 1:
+- initial release
