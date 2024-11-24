@@ -1,0 +1,23 @@
+{
+	"blt_version": 2,
+	"name": "Clientsided Blankets",
+	"description": "Makes Lab Rats' blanket fall damage negation clientsided.",
+	"author": "powware",
+	"contact": "https://github.com/powware",
+	"version": "1",
+	"color": "0.1 1 0.5",
+	"updates": [
+		{
+			"identifier": "ClientsidedBlankets",
+			"host": {
+				"meta": "https://github.com/powware/pd2-clientsided-blankets/releases/download/refs%2Fheads%2Fmaster/meta.json"
+			}
+		}
+	],
+	"hooks": [
+		{
+			"hook_id": "core/lib/managers/mission/coreelementarea",
+			"script_path": "coreelementarea.lua"
+		}
+	]
+}
