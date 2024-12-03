@@ -189,7 +189,7 @@ self.deagle.stats_modifiers = {
 self.mateba.CLIP_AMMO_MAX = 6
 self.mateba.AMMO_MAX = 30 
 self.mateba.stats.damage = 123 
-self.mateba.AMMO_PICKUP = {0.8, 1.8} 
+self.mateba.AMMO_PICKUP = {1, 2} 
 self.mateba.stats.reload = 14
 
 self.mateba.stats_modifiers = {
