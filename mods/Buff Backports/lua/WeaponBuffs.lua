@@ -202,13 +202,13 @@ self.mateba.stats_modifiers = {
 		damage = 2
 }
 
-self.x_mateba.CLIP_AMMO_MAX = 12
-self.x_mateba.AMMO_MAX = 60
-self.x_mateba.stats.damage = 123 
-self.x_mateba.AMMO_PICKUP = {2, 4} 
-self.x_mateba.stats.reload = 14
+self.x_2006m.CLIP_AMMO_MAX = 12
+self.x_2006m.AMMO_MAX = 60
+self.x_2006m.stats.damage = 123 
+self.x_2006m.AMMO_PICKUP = {2, 4} 
+self.x_2006m.stats.reload = 14
 
-self.x_mateba.stats_modifiers = {
+self.x_2006m.stats_modifiers = {
 		damage = 2
 }
 end )
