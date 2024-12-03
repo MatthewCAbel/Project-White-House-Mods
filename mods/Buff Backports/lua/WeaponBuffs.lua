@@ -1,7 +1,7 @@
 Hooks:PostHook( WeaponTweakData, "init", "WeaponBuffs", function(self)
 
-self.vhs.AMMO_MAX = 180
-self.vhs.stats.damage = 78
+self.vhs.AMMO_MAX = 160
+self.vhs.stats.damage = 67
 
 self.ak5.stats.damage = 66
 
