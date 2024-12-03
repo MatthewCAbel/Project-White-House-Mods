@@ -176,4 +176,13 @@ self.mg42.AMMO_PICKUP = {10, 12}
 
 self.ecp.stats.concealment = 28
 
+self.deagle.CLIP_AMMO_MAX = 7 
+self.deagle.AMMO_MAX = 28 
+self.deagle.fire_mode_data.fire_rate = 60 / 100
+self.deagle.stats.damage = 123 
+self.deagle.AMMO_PICKUP = {1.5, 2.5} 
+
+self.deagle.stats_modifiers = {
+		damage = 2
+}	
 end )
