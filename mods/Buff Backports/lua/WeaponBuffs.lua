@@ -181,13 +181,15 @@ self.deagle.AMMO_MAX = 28
 self.deagle.fire_mode_data.fire_rate = 60 / 200
 self.deagle.stats.damage = 123 
 self.deagle.AMMO_PICKUP = {1, 2} 
+self.deagle.stats_modifiers = {
+		damage = 2
+}
 
 self.x_deagle.CLIP_AMMO_MAX = 14 
 self.x_deagle.AMMO_MAX = 56
-self.deagle.fire_mode_data.fire_rate = 60 / 200
-self.deagle.stats.damage = 123 
-self.deagle.AMMO_PICKUP = {2, 4} 
-
+self.x_deagle.fire_mode_data.fire_rate = 60 / 200
+self.x_deagle.stats.damage = 123 
+self.x_deagle.AMMO_PICKUP = {2, 4} 
 self.x_deagle.stats_modifiers = {
 		damage = 2
 }	
@@ -197,7 +199,6 @@ self.mateba.AMMO_MAX = 30
 self.mateba.stats.damage = 123 
 self.mateba.AMMO_PICKUP = {1, 2} 
 self.mateba.stats.reload = 14
-
 self.mateba.stats_modifiers = {
 		damage = 2
 }
@@ -207,7 +208,6 @@ self.x_2006m.AMMO_MAX = 60
 self.x_2006m.stats.damage = 123 
 self.x_2006m.AMMO_PICKUP = {2, 4} 
 self.x_2006m.stats.reload = 14
-
 self.x_2006m.stats_modifiers = {
 		damage = 2
 }
