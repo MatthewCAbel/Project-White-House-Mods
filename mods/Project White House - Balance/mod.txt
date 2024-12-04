@@ -12,9 +12,7 @@
   {
     "identifier" : "PWH-BALANCE",
     "host": {
-      "meta": "https://raw.githubusercontent.com/MatthewCAbel/Project-White-House-Mods/refs/heads/wolfhud/json/meta.json",
-      "download": "https://github.com/MatthewCAbel/Project-White-House-Balance/archive/refs/heads/main.zip",
-      "patchnotes": "https://github.com/MatthewCAbel/Project-White-House-Balance/blob/main/readme"
+      "meta": "https://raw.githubusercontent.com/MatthewCAbel/Project-White-House-Mods/refs/heads/wolfhud/json/meta.json"
     }
   }
 ]
