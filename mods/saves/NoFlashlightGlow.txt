@@ -1,1 +1,0 @@
-{"disable_glow":true,"glow_alpha":16}

@@ -1,5 +1,0 @@
-{	"ShowErrorsDialog":true,	"MenuColor":"Color(1, 0, 0.25, 1)",	"ShowImages":true,	"IgnoredUpdates":{
-	"_meta":"default_value"
-},	"OptimizedMusicLoad":true,	"ImportantNotice":true,	"LogSounds":false,	"DisabledMods":{
-	"_meta":"default_value"
-},	"DevMode":false}
