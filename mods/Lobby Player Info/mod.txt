@@ -8,14 +8,6 @@
 	"contact" : "",
 	"version" : "87",
 	"simple_update_url" : "http://pd2mods.z77.fr/update/LobbyPlayerInfo.zip",
-	"updates": [
-		{
-			"identifier" : "SimpleModUpdater",
-			"display_name" : "Simple Mod Updater",
-			"install_folder" : "Simple Mod Updater",
-			"host" : { "meta": "http://pd2mods.z77.fr/meta/SimpleModUpdater", }
-		}
-	],
 	"pre_hooks" : [
 		{
 			"hook_id" : "lib/entry",

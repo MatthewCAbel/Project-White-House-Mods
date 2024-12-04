@@ -18,5 +18,4 @@
 		{ "hook_id" : "lib/tweak_data/crimespreetweakdata", "script_path" : "lua/crimespreetweakdata.lua"},
 		{ "hook_id" : "lib/tweak_data/hudiconstweakdata", "script_path" : "lua/hudiconstweakdata.lua"}
 	],
-	"updates" : [ {"identifier" : "MHiCS", "host": { "meta": "https://www.dropbox.com/s/p098x8ffo8lg6cq/meta?raw=1"}}]
 }

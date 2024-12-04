@@ -78,14 +78,3 @@ function WeaponLaser:update(unit, t, dt)
 	self._custom_position = nil
 	self._custom_rotation = nil
 end
-
-function WeaponMultiLaser:update(unit, t, dt)
-	for index, laser_obj in ipairs(self._laser_objs) do
-		local light = self._lights[index] or self._lights[1]
-		local light_glow = self._light_glows[index] or self._light_glows[1]
-		self:liwl_update(laser_obj, light, light_glow)
-	end
-
-	self._custom_position = nil
-	self._custom_rotation = nil
-end
