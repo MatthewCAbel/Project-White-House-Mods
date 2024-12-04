@@ -36,7 +36,7 @@ self.parts.wpn_fps_upg_ak_m_quick.stats.concealment = -2
 
 self.parts.wpn_fps_m4_upg_m_quick.stats.concealment = -2
 
-self.parts.wpn_fps_smg_sr2_m_quick.stats.concealment =-2
+self.parts.wpn_fps_smg_sr2_m_quick.stats.concealment = -2
 
 self.parts.wpn_fps_smg_mac10_m_quick.stats.concealment = -2
 
@@ -51,6 +51,6 @@ self.parts.wpn_fps_upg_m4_m_pmag.stats = {
 	spread = -1,
 }
 
-self.parts.wpn_fps_upg_m4_m_l5.stats.recoil = +2
+self.parts.wpn_fps_upg_m4_m_l5.stats.recoil = 2
 
 end )
