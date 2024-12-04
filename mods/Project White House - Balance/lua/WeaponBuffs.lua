@@ -198,7 +198,7 @@ self.x_deagle.stats_modifiers = {
 
 self.mateba.CLIP_AMMO_MAX = 6
 self.mateba.AMMO_MAX = 30 
-self.mateba.stats.damage = 120 
+self.mateba.stats.damage = 123 
 self.mateba.AMMO_PICKUP = {1, 2} 
 self.mateba.stats.reload = 14
 self.mateba.stats.concealment = 19	
@@ -208,7 +208,7 @@ self.mateba.stats_modifiers = {
 
 self.x_2006m.CLIP_AMMO_MAX = 12
 self.x_2006m.AMMO_MAX = 60
-self.x_2006m.stats.damage = 120 
+self.x_2006m.stats.damage = 123 
 self.x_2006m.AMMO_PICKUP = {2, 4} 
 self.x_2006m.stats.reload = 14
 self.x_2006m.stats.concealment = 19
