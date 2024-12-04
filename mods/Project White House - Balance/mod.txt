@@ -3,9 +3,19 @@
 	"author" : "MatthewCAbel",
 	"blt_version" : 2,	
 	"color" : "1 1 1",
-	"version" : "1.0",
+	"version" : "0.9",
 	"hooks":[
 		{ "hook_id":"lib/tweak_data/weapontweakdata", "script_path":"lua/WeaponBuffs.lua"},
 		{ "hook_id":"lib/tweak_data/weaponfactorytweakdata", "script_path":"lua/AttachmentBuffs.lua"}
 	]
+	"updates" : [
+  {
+    "identifier" : "PWH-BALANCE",
+    "host": {
+      "meta": "https://github.com/MatthewCAbel/Project-White-House-Mods/blob/wolfhud/json/meta.json",
+      "download": "https://github.com/MatthewCAbel/Project-White-House-Mods/tree/wolfhud/mods/Project%20White%20House%20-%20Balance",
+      "patchnotes": "https://github.com/MatthewCAbel/Project-White-House-Mods/tree/wolfhud"
+    }
+  }
+]
 }
