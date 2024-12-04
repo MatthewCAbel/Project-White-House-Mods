@@ -1,5 +1,5 @@
 {
-	"name" : "Buff Backports",
+	"name" : "Project White House - Balance",
 	"author" : "MatthewCAbel",
 	"blt_version" : 2,	
 	"color" : "1 1 1",
