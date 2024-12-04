@@ -13,9 +13,12 @@ self.asval.stats.damage = 50
 self.amcar.stats.damage = 45
 
 self.s552.stats.damage = 52
+self.s552.stats.spread = 15
+self.s552.stats.concealment = 23
 
 self.g36.stats.damage = 54
 self.g36.stats.spread = 14
+self.g36.stats.concealment = 20
 
 self.new_m4.stats.damage = 62
 
