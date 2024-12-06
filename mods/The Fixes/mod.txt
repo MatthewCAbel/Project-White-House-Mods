@@ -8,17 +8,6 @@
 	"color" : "0 0.6 0.286",
 	"image" : "logo.png",
 	"contact": "\n http://steamcommunity.com/id/andole/",
-
-	"updates" : [
-		{
-			"identifier" : "the_fixes",
-			"host": {
-				"meta": "https://bitbucket.org/andole/the-fixes/raw/updates/info2.json",
-				"download": "https://bitbucket.org/andole/the-fixes/raw/updates/the-fixes-latest.zip",
-				"patchnotes": "https://modworkshop.net/mydownloads.php?action=view_down&did=23732#changelog"
-			}
-		}
-	],	
 	"pre_hooks": [
 		{
 			"hook_id": "core/lib/system/coresystem",
