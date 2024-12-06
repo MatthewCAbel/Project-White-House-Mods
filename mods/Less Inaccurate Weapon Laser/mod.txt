@@ -9,14 +9,6 @@
 	"version" : "8",
 	"priority" : 200,
 	"simple_update_url" : "http://pd2mods.z77.fr/update/LessInaccurateWeaponLaser.zip",
-	"updates": [
-		{
-			"identifier" : "SimpleModUpdater",
-			"display_name" : "Simple Mod Updater",
-			"install_folder" : "Simple Mod Updater",
-			"host" : { "meta": "http://pd2mods.z77.fr/meta/SimpleModUpdater", }
-		}
-	],
 	"hooks" : [
 		{
 			"hook_id" : "lib/units/beings/player/playerinventory",
